@@ -1,0 +1,37 @@
+_repo: The-Sky-Is-Falling_18768
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18768-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Del Rey, Lester
+    aliases:
+    - Knapp, Leonard
+    - Rey, Lester del
+    birthdate: 1915
+    deathdate: 1993
+    gutenberg_agent_id: '8240'
+    url: http://www.gutenberg.org/2009/agents/8240
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Lester_del_Rey
+    - http://www.gutenberg.org/ebooks/author/46565
+description: Summoned from Earth by magic, Dave Hanson finds himself embroiled in
+  the politics and engineering problems of an alternate Earth named Terah . . . for
+  Terah's sky has shattered, and he may be the one man in all the universe who can
+  restore it! But science and sorcery, beautiful women, and fantastic monsters are
+  just the beginning of his problems . . .
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magic -- Fiction'
+- !lcc 'PS'
+title: The Sky Is Falling
+url: http://www.gutenberg.org/ebooks/18768
